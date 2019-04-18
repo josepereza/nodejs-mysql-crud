@@ -1,5 +1,5 @@
-![Alt Text][nodejs.mysql-crud1-png]
-![Alt Text][nodejs.mysql-crud2-png]
+![Alt text](nodejs.mysql-crud1-png)
+![Alt text](nodejs.mysql-crud2-png)
 
 
 Node.js, Express & MySQL: Simple Add, Edit, Delete, View (CRUD)
